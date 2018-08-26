@@ -1,25 +1,25 @@
-git init 		//³õÊ¼»¯²Ö¿â
+git init 		//åˆå§‹åŒ–ä»“åº“
 
-git add .		//°ÑËùÓĞĞŞ¸ÄµÄÎÄ¼şÌá½»µ½»º´æÇø
+git add .		//æŠŠæ‰€æœ‰ä¿®æ”¹çš„æ–‡ä»¶æäº¤åˆ°ç¼“å­˜åŒº
 
-git commit -m '×¢ÊÍ' //Ìá½»µ½git²Ö¿â
+git commit -m 'æ³¨é‡Š' //æäº¤åˆ°gitä»“åº“
 
-git status		//×´Ì¬
+git status		//çŠ¶æ€
 
-git log		//Ìá½»¼ÇÂ¼
+git log		//æäº¤è®°å½•
 
-git branch		//²é¿´·ÖÖ§
+git branch		//æŸ¥çœ‹åˆ†æ”¯
 
-git branch xxx	//ĞÂ½¨Ò»¸ö·ÖÖ§
+git branch xxx	//æ–°å»ºä¸€ä¸ªåˆ†æ”¯
 
-git checkout xxx	//ÇĞ»»µ½xxx·ÖÖ§
+git checkout xxx	//åˆ‡æ¢åˆ°xxxåˆ†æ”¯
 
-git merge		//1.ÏÈÇĞ»»µ½ºÏ²¢µ½µÄ·ÖÖ§(git checkout master)£¬È»ºógit merge dev,°ÑdevµÄ·ÖÖ§´úÂëºÏ²¢µ½Ö÷·ÖÖ§ÉÏ
+git merge		//1.å…ˆåˆ‡æ¢åˆ°åˆå¹¶åˆ°çš„åˆ†æ”¯(git checkout master)ï¼Œç„¶ågit merge dev,æŠŠdevçš„åˆ†æ”¯ä»£ç åˆå¹¶åˆ°ä¸»åˆ†æ”¯ä¸Š
 
-git push origin master(·ÖÖ§Ãû³Æ)	//Íùgit²Ö¿âÌá½»´úÂë
+git push origin master(åˆ†æ”¯åç§°)	//å¾€gitä»“åº“æäº¤ä»£ç 
 
-git pull origin master(·ÖÖ§Ãû³Æ)		//À­È¡×îĞÂ´úÂë
+git pull origin master(åˆ†æ”¯åç§°)		//æ‹‰å–æœ€æ–°ä»£ç 
 
-git clone xxx			//¿ËÂ¡githubÉÏµÄ´úÂë
+git clone xxx			//å…‹éš†githubä¸Šçš„ä»£ç 
 
-git remote add origin git@github.com:Snailping/test.git	//¹ØÁªµ½Ô¶³Ì²Ö¿â
+git remote add origin git@github.com:Snailping/test.git	//å…³è”åˆ°è¿œç¨‹ä»“åº“
